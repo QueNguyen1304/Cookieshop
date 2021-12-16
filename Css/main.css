@@ -511,8 +511,7 @@ button a{
 	width: 100px;
 	height: 100px;
 	border-radius: 20px;
-	background: #feba17;
-	color: white;
+	background: white;
 	float: left;
 	text-align: center;
 	justify-content: center;
@@ -523,11 +522,6 @@ button a{
 	position: absolute;
 	bottom: -30%;
 	left: 10%;
-}
-.price-content:nth-child(2) .price-item-gia {
-	background: white;
-	color: black;
-	box-shadow: 1px 1px 5px #CC9513;
 }
 .price-item-plan{
 	width: 60px;
@@ -594,7 +588,7 @@ table i{
 	color: #feba17;
 }
 .price-content:nth-child(2) table td{
-	color: white;
+	color: black;
 }
 .price-content:nth-child(2) table i{
 	color: white;
